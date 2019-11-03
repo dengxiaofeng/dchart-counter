@@ -1,0 +1,28 @@
+{
+  "name": "dchart-counter",
+  "version": "0.0.1",
+  "description": "number flop",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "bcore": "0.0.9",
+    "jquery": "2.1.4",
+    "lodash": "4.6.1",
+    "to-style": "1.3.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dengxiaofeng/dchart-counter.git"
+  },
+  "keywords": [
+    "flop"
+  ],
+  "author": "dengxiaofeng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dengxiaofeng/dchart-counter/issues"
+  },
+  "homepage": "https://github.com/dengxiaofeng/dchart-counter#readme"
+}
